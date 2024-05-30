@@ -1,6 +1,10 @@
 ## 🌟 Terraform State File Priorities
+![image](https://github.com/SivaranjanAsokan/Terraform-Complete/assets/163242501/3a72316c-1d0a-4582-8594-07529292002f)
+
 
 Understanding how Terraform determines the state file location and behavior is crucial for effective infrastructure management. Here’s a breakdown of the priority order, with some helpful emojis to guide you:
+![image](https://github.com/SivaranjanAsokan/Terraform-Complete/assets/163242501/088a8161-c3e9-447d-ad1e-34e70c6246f5)
+
 
 ### Priority Order
 
